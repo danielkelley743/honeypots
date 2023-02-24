@@ -1,0 +1,6 @@
+{
+"logs": "http,terminal",
+"logs_http_server": "webhook.site:443",
+"logs_http_url": "/77cee02e-57a0-4195-acc5-72e077c7032a",
+"logs_http_excluded_actions": ["POST","GET","process"]
+}
